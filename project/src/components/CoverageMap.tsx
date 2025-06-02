@@ -46,9 +46,9 @@ const CoverageMap: React.FC = () => {
 
   // List of areas we serve
   const areasServed = [
-    "Hyderabad", "Secunderabad", "Madhapur", "Gachibowli", 
+    "Warangal", "karimnagar","Hyderabad", "Secunderabad", "Madhapur", "Gachibowli", 
     "HITEC City", "Kondapur", "Kukatpally", "Ameerpet",
-    "Banjara Hills", "Jubilee Hills", "Begumpet", "Somajiguda"
+    "Banjara Hills", "Jubilee Hills", "Begumpet", "Somajiguda" "Across India"
   ];
 
   return (
