@@ -36,13 +36,7 @@ const DeliveryForm: React.FC = () => {
   return (
     <section id="book" className="section bg-gray-50">
       <div className="container-custom">
-        <div className="text-center mb-12">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5 }}
-            viewport={{ once: true }}
-          >
+        <div className="text-center mb-12"
             <h2 className="text-3xl font-bold text-gray-800 mb-2">Book Your Delivery</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Fill in the details below and instantly connect with us on WhatsApp to confirm your delivery.
@@ -51,13 +45,6 @@ const DeliveryForm: React.FC = () => {
         </div>
 
         <div className="max-w-4xl mx-auto">
-          <motion.div 
-            className="bg-white rounded-2xl shadow-xl overflow-hidden"
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
-            viewport={{ once: true }}
-          >
             <div className="grid md:grid-cols-5">
               <div className="md:col-span-2 bg-secondary p-6 md:p-8 text-white flex flex-col justify-center">
                 <div className="mb-8">
