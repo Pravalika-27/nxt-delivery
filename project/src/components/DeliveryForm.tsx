@@ -61,7 +61,7 @@ const DeliveryForm: React.FC = () => {
             <div className="grid md:grid-cols-5">
               <div className="md:col-span-2 bg-secondary p-6 md:p-8 text-white flex flex-col justify-center">
                 <div className="mb-8">
-                  <PackageCheck className="w-12 h-12 text-primary mb-4" />
+                  <img src = "./nxt-delivery" className="w-12 h-12 text-primary mb-4" />
                   <h3 className="text-2xl font-semibold mb-2">NXT Delivery</h3>
                   <p className="opacity-90">
                     Driven by Safety.<br />
