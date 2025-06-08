@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import { PackageCheck, MapPin, ShoppingBag, Weight, Send } from 'lucide-react';
-import { motion } from 'framer-motion';
+import { MapPin, ShoppingBag, Weight, Send } from 'lucide-react';
 
 const DeliveryForm: React.FC = () => {
   const [formData, setFormData] = useState({
