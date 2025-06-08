@@ -37,7 +37,7 @@ const DeliveryForm: React.FC = () => {
     <section id="book" className="section bg-gray-50">
       <div className="container-custom">
         <div className="text-center mb-12">
-          <img src="/WhatsApp Image 2025-06-02 at 11.26.23 PM.jpeg" alt="NXT Delivery Logo" className="h-16 w-16 mx-auto mb-4" />
+          <img src="/WhatsApp Image 2025-06-02 at 11.26.23 PM copy copy.jpeg" alt="NXT Delivery Logo" className="h-16 w-16 mx-auto mb-4" />
           <h2 className="text-3xl font-bold text-gray-800 mb-2">Book Your Delivery</h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Fill in the details below and instantly connect with us on WhatsApp to confirm your delivery.
@@ -48,7 +48,7 @@ const DeliveryForm: React.FC = () => {
           <div className="grid md:grid-cols-5">
             <div className="md:col-span-2 bg-secondary p-6 md:p-8 text-white flex flex-col justify-center">
               <div className="mb-8">
-                <img src="/WhatsApp Image 2025-06-02 at 11.26.23 PM.jpeg" alt="NXT Delivery Logo" className="w-12 h-12 mb-4" />
+                <img src="/WhatsApp Image 2025-06-02 at 11.26.23 PM copy copy.jpeg" alt="NXT Delivery Logo" className="w-12 h-12 mb-4" />
                 <h3 className="text-2xl font-semibold mb-2">NXT Delivery</h3>
                 <p className="opacity-90">
                   Driven by Safety.<br />
@@ -62,7 +62,7 @@ const DeliveryForm: React.FC = () => {
                 <div className="flex items-center">
                   <div className="w-14 h-14 rounded-full overflow-hidden border-2 border-primary mr-4">
                     <img 
-                      src="/founder.png" 
+                      src="/founder copy copy.png" 
                       alt="Praveen Kumar" 
                       className="w-full h-full object-cover"
                     />
